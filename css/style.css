@@ -25,6 +25,12 @@ p {
   border-radius: 10px;
 }
 
+.thin-taxt {
+  font-weight: 200;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 .thin-text-2 {
   font-weight: 400;
   padding: 20px;
