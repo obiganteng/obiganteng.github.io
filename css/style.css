@@ -19,6 +19,18 @@ p {
   color: #26a69a;
 }
 
+.thin-text {
+  font-weight: 400;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.thin-text-2 {
+  font-weight: 400;
+  padding: 20px;
+  border-radius: 10px;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
